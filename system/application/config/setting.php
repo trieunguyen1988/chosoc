@@ -6,7 +6,7 @@ if(!defined('BASEPATH'))exit('No direct script access allowed');
 class Setting
 {
 #Thong tin website
-const settingTitle = 'Raovat365.info - Hệ thống thương mại điện tử - mua bán - rao vặt - sản phẩm doanh nghiệp';
+const settingTitle = 'raovatvnn.com - Hệ thống thương mại điện tử - mua bán - rao vặt - sản phẩm doanh nghiệp';
 const settingDescr = '- Tư vấn thương hiệu - Tư vấn quản lý
 - Tư vấn và thiết kế website, logo, nhãn hiệu, thiết kế in ấn …
 - Quảng cáo thương mại - Thương mại điện tử
@@ -23,14 +23,14 @@ const settingKeyword = '- Tư vấn thương hiệu - Tư vấn quản lý
 - Dịch vụ tiếp thị và truyền thông quảng cáo';
 const settingEmail_1 = 'trieu.nguyennhu@gmail.com';
 const settingEmail_2 = 'trieunguyen1988@gmail.com';
-const settingAddress_1 = 'Tân Xuân - Hàm Tân - Bình Thuận';
-const settingAddress_2 = 'Nhà Bè - Hồ Chí Minh';
+const settingAddress_1 = 'Đường 18D - P.Bình Hưng Hòa A - Q.Bình Tân - TPHCM';
+const settingAddress_2 = 'Đường 18D - P.Bình Hưng Hòa A - Q.Bình Tân - TPHCM';
 const settingPhone = '0933638244';
 const settingMobile = '0978144735';
-const settingYahoo_1 = 'tuonglaitudau';
-const settingYahoo_2 = 'yahoo2';
+const settingYahoo_1 = '';
+const settingYahoo_2 = '';
 const settingSkype_1 = 'trieu.nguyennhu';
-const settingSkype_2 = 'skype2';
+const settingSkype_2 = '';
 #Cau hinh chung
 const settingTimePost = 15;
 const settingLockAccount = 180;

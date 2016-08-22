@@ -1,7 +1,7 @@
 <?php
 if(!defined('BASEPATH'))exit('No direct script access allowed');
 #Base url
-$config['base_url']	= "http://".$_SERVER['HTTP_HOST']."/raovat-chosoc";
+$config['base_url']	= "http://".$_SERVER['HTTP_HOST']."/chosoc";
 //$config['base_url']	= "http://localhost/raovat";
 #Index file
 $config['index_page'] = "index.php";
