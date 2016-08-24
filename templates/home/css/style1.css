@@ -224,6 +224,11 @@ height:30px;
 float:left;
 background:url(../images/menu_left1.gif) no-repeat center;
 }
+
+.left_menu td{
+    border-bottom: 1px solid #ddd;
+}
+
 .right_menu_corner{
 width:9px;
 height:50px;

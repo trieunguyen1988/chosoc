@@ -4,7 +4,7 @@
     <td class="tieude_trai"><?php echo $this->lang->line('title_product_menu'); ?></td>
 </tr>
 <tr>
-    <td background="<?php echo base_url(); ?>templates/home/images/bg_menu.jpg" >
+    <td class="left_menu">
         <table width="201" border="0" cellpadding="0" cellspacing="0">
             <?php foreach($menu as $menuArray){ ?>
             <tr>
@@ -21,7 +21,7 @@
     <td class="tieude_trai"><?php echo $this->lang->line('title_ads_menu'); ?></td>
 </tr>
 <tr>
-    <td background="<?php echo base_url(); ?>templates/home/images/bg_menu.jpg" >
+    <td class="left_menu">
         <table width="201" border="0" cellpadding="0" cellspacing="0">
             <?php foreach($menu as $menuArray){ ?>
             <tr>
@@ -38,7 +38,7 @@
     <td class="tieude_trai"><?php echo $this->lang->line('title_shop_menu'); ?></td>
 </tr>
 <tr>
-    <td background="<?php echo base_url(); ?>templates/home/images/bg_menu.jpg" >
+    <td class="left_menu">
         <table width="201" border="0" cellpadding="0" cellspacing="0">
             <?php foreach($menu as $menuArray){ ?>
             <tr>
@@ -55,7 +55,7 @@
     <td class="tieude_trai"><?php echo $this->lang->line('title_job_menu'); ?></td>
 </tr>
 <tr>
-    <td background="<?php echo base_url(); ?>templates/home/images/bg_menu.jpg" >
+    <td class="left_menu">
         <table width="201" border="0" cellpadding="0" cellspacing="0">
             <tr>
                 <td width="30" height="30"><div><img src="<?php echo base_url(); ?>templates/home/images/icon_menu_job_01.gif" border="0" /></div></td>
@@ -94,7 +94,7 @@
     <td class="tieude_trai"><?php echo $this->lang->line('title_account_menu'); ?></td>
 </tr>
 <tr>
-    <td background="<?php echo base_url(); ?>templates/home/images/bg_menu.jpg" >
+    <td class="left_menu">
         <table width="201" border="0" cellpadding="0" cellspacing="0">
             <tr>
                 <td width="30" height="30"><div><img src="<?php echo base_url(); ?>templates/home/images/icon_menu_account_01.gif" border="0" /></div></td>

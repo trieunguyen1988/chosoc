@@ -240,33 +240,28 @@
 
     </div>
     <div class="right_footer">
-        Copyright © 2011 raovat365.info - All Rights Reserved.
+        Copyright © 2011 raovatvnn.com - All Rights Reserved.
         <br>
         Designed by
-        <a href="http://raovat365.info" style="text-decoration: none;" target="_blank">
-            raovat365.info
+        <a href="http://raovatvnn.com" style="text-decoration: none;" target="_blank">
+            raovatvnn.com
         </a>
         <br>
         Lượt truy cập:
         <td width="201" id="counter"><?php echo $counter->cou_counter; ?></td>
-        <!--script type="text/javascript" src="http://widgets.amung.us/small.js" >
-        < /script >
-        < script type="text/javascript" >
-        WAU_small('dnhg5tbay987')
-        < /script-->
     </div>
 </div>
 <!--BEGIN: Google Analytics-->
-<script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-56482405-2', 'auto');
+    ga('send', 'pageview');
+
 </script>
-<script type="text/javascript">
-    try {
-        var pageTracker = _gat._getTracker("UA-10554769-1");
-        pageTracker._trackPageview();
-    } catch (err) {
-    }</script>
 <!--END Google Analytics-->
 </body>
 </html>

@@ -14,13 +14,13 @@ a {
 }
 
 .menu:link {
-	color: #004B7A;
+	color: #333;
 	text-decoration: none;
 	font-weight:bold;
 }
 .menu:visited {
 	text-decoration: none;
-	color: #004B7A;
+	color: #333;
 	font-weight:bold;
 }
 .menu:hover {
@@ -35,12 +35,12 @@ a {
 }
 
 .menu_1:link {
-	color:#004B7A;
+	color:#333;
 	text-decoration:none;
 }
 .menu_1:visited {
 	text-decoration: none;
-	color: #004B7A;
+	color: #333;
 }
 .menu_1:hover {
 	text-decoration: none;

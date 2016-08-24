@@ -1,5 +1,5 @@
 <!--BEGIN: LEFT-->
-<td bgcolor="#f3f3f3" width="201" valign="top">
+<td width="201" valign="top">
     <table width="201" border="0" cellpadding="0" cellspacing="0">
         <?php $this->load->view('home/common/menu'); ?>
          <?php if(isset($advertisePage) && $advertisePage != 'account'){ ?>
