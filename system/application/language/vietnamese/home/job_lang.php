@@ -1,8 +1,8 @@
 <?php
 #****************************************#
-# * @Author: chosoc                 #
-# * @Email: chosoc@gmail.com         #
-# * @Website: http://chosoc.com  #
+# * @Author: raovatvnn                 #
+# * @Email: vnnraovat@gmail.com         #
+# * @Website: http://raovatvnn.com  #
 # * @Copyright: 2010 - 2012             #
 #****************************************#
 #BEGIN: Defaults
@@ -83,7 +83,7 @@ $lang['title_sendlink_label_detail'] = 'Tiêu đề';
 $lang['content_sendlink_label_detail'] = 'Lời nhắn';
 $lang['captcha_sendlink_label_detail'] = 'Mã xác nhận';
 $lang['_valid_captcha_send_friend_message_detail'] = 'Mã xác nhận không đúng';
-$lang['content_default_send_friend_detail'] = 'Bạn bè của bạn trên <b><a href="http://chosoc.com">CHOSOC.COM</a></b> gởi cho bạn tin tuyển dụng này: <a href="';
+$lang['content_default_send_friend_detail'] = 'Bạn bè của bạn trên <b><a href="http://raovatvnn.com">RAOVATVNN.COM</a></b> gởi cho bạn tin tuyển dụng này: <a href="';
 $lang['next_content_default_send_friend_detail'] = 'với lời nhắn: ';
 $lang['useragen_mail_detail'] = 'ThiTruong24Gio.Com';
 $lang['success_send_friend_detail'] = 'Tin tuyển dụng đã được gởi thành công';

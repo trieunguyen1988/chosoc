@@ -2,7 +2,7 @@
 #****************************************#
 # * @Author: raovat365                  #
 # * @Email:  trieu.nguyennhu@gmail.com         #
-# * @Website: http://RAOVAT365.INFO  #
+# * @Website: http://RAOVATVNN.COM  #
 # * @Copyright: 2011 - 2012             #
 #****************************************#
 #BEGIN: TT24H
@@ -10,7 +10,7 @@ $lang['EMAIL_MEMBER_TT24H'] = 'trieu.nguyennhu@gmail.com';
 $lang['EMAIL_CONTACT_TT24H'] = 'trieunguyen1988@gmail.com';
 #END TT24H
 #BGIN: Header
-$lang['title_detail_header'] = 'RAOVAT365.INFO | ';
+$lang['title_detail_header'] = 'RAOVATVNN.COM | ';
 $lang['post_product_header'] = 'Đăng sản phẩm';
 $lang['post_ads_header'] = 'Đăng tin rao vặt';
 $lang['product_menu_header'] = 'Sản phẩm';
@@ -99,13 +99,13 @@ $lang['view_all_right'] = 'Xem tất cả...';
 #BEGIN: Footer
 $lang['counter_footer'] = 'Truy cập';
 $lang['info_1_footer'] = '<a class="menu" href="'.base_url().'">Sản phẩm</a>&nbsp;|&nbsp;<a class="menu" href="'.base_url().'ads">Rao vặt</a>&nbsp;|&nbsp;<a class="menu" href="'.base_url().'job">Tuyển dụng</a>&nbsp;|&nbsp;<a class="menu" href="'.base_url().'employ">Tìm việc</a>&nbsp;|&nbsp;<a class="menu" href="'.base_url().'shop">Cửa hàng</a>&nbsp;|&nbsp;<a class="menu" href="'.base_url().'contact">Liên hệ</a>';
-$lang['info_2_footer'] = '<b><a class="menu_1" href="'.base_url().'">RAOVAT365.INFO</a></b> - <font color="#004B7A">Mạng thương mại điện tử, mua bán, rao vặt, quảng cáo hàng đầu Việt Nam. Phiên bản 1.0 đang chạy thử nghiệm mọi thông tin góp ý quý khách hàng vui lòng gửi về Email: trieu.nguyennhu@gmail.com</font>';
+$lang['info_2_footer'] = '<b><a class="menu_1" href="'.base_url().'">RAOVATVNN.COM</a></b> - <font color="#004B7A">Mạng thương mại điện tử, mua bán, rao vặt, quảng cáo hàng đầu Việt Nam. Phiên bản 1.0 đang chạy thử nghiệm mọi thông tin góp ý quý khách hàng vui lòng gửi về Email: trieu.nguyennhu@gmail.com</font>';
 $lang['info_3_footer'] = '<img src="'.base_url().'templates/home/images/phone_1.gif" border="0">&nbsp;<font color="#004B7A"><b>Điện thoại:</b>&nbsp;'.Setting::settingPhone.'</font>&nbsp;&nbsp;&nbsp;
 						  <img src="'.base_url().'templates/home/images/mobile_1.gif" border="0">&nbsp;<font color="#004B7A"><b><i>Hotline:</i></b>&nbsp;'.Setting::settingMobile.'</font>&nbsp;&nbsp;&nbsp;
                           <img src="'.base_url().'templates/home/images/mail.gif" border="0">&nbsp;<font color="#004B7A"><b>Email:</b></font>&nbsp;<a class="menu_1" href="mailto:'.Setting::settingEmail_1.'">'.Setting::settingEmail_1.'</a><br>
                           <a class="menu_1" href="ymsgr:SendIM?'.Setting::settingYahoo_1.'"><img src="'.base_url().'templates/home/images/yahoo.gif" border="0">&nbsp;Bộ phận kinh doanh</a>&nbsp;&nbsp;&nbsp;
 						  <a class="menu_1" href="ymsgr:SendIM?'.Setting::settingYahoo_2.'"><img src="'.base_url().'templates/home/images/yahoo.gif" border="0">&nbsp;Bộ phận kỹ thuật</a>';
-$lang['info_4_footer'] = '<b>COPYRIGHT '.date("Y").' &copy;</b> <a class="menu" href="'.base_url().'" title="Thuộc về RAOVAT365.INFO">RAOVAT365.INFO</a>';
+$lang['info_4_footer'] = '<b>COPYRIGHT '.date("Y").' &copy;</b> <a class="menu" href="'.base_url().'" title="Thuộc về RAOVATVNN.COM">RAOVATVNN.COM</a>';
 $lang['bookmark_tip_footer'] = 'Lưu vào bookmarks';
 $lang['top_tip_footer'] = 'Đầu trang';
 #END Footer
@@ -123,12 +123,12 @@ $lang['title_notify_taskbar'] = 'THÔNG BÁO';
 #BEGIN: Info
 $lang['title_info'] = 'THÔNG TIN';
 $lang['login_1_info'] = '
-<div class="info_1">Chào mừng quý khách đến với trang thương mại điện tử <a class="menu" href="'.base_url().'">RAOVAT365.INFO</a></div>
+<div class="info_1">Chào mừng quý khách đến với trang thương mại điện tử <a class="menu" href="'.base_url().'">RAOVATVNN.COM</a></div>
 ';
-$lang['login_2_info'] = '<div class="info_2">Nếu bạn chưa có một tài khoản trên <a class="menu" href="'.base_url().'">RAOVAT365.INFO</a>, bạn có thể <a class="menu" href="'.base_url().'register">đăng ký miễn phí</a> một tài khoản cho mình.<br>Nếu bạn không thể đăng nhập vào <a class="menu" href="'.base_url().'">RAOVAT365.INFO</a> vì lí do quên mật khẩu, bạn có thể sử dụng chức năng <font color="#FF0000"><b>lấy lại mật khẩu</b></font> tự động của <a class="menu" href="'.base_url().'">RAOVAT365.INFO</a> hoặc bạn vui lòng liên hệ với chúng tôi để được hỗ trợ.</div>';
-$lang['post_1_info'] = '<div class="info_1">Chào mừng quý khách đến với trang thương mại điện tử <a class="menu" href="'.base_url().'">RAOVAT365.INFO</a></div>
+$lang['login_2_info'] = '<div class="info_2">Nếu bạn chưa có một tài khoản trên <a class="menu" href="'.base_url().'">RAOVATVNN.COM</a>, bạn có thể <a class="menu" href="'.base_url().'register">đăng ký miễn phí</a> một tài khoản cho mình.<br>Nếu bạn không thể đăng nhập vào <a class="menu" href="'.base_url().'">RAOVATVNN.COM</a> vì lí do quên mật khẩu, bạn có thể sử dụng chức năng <font color="#FF0000"><b>lấy lại mật khẩu</b></font> tự động của <a class="menu" href="'.base_url().'">RAOVATVNN.COM</a> hoặc bạn vui lòng liên hệ với chúng tôi để được hỗ trợ.</div>';
+$lang['post_1_info'] = '<div class="info_1">Chào mừng quý khách đến với trang thương mại điện tử <a class="menu" href="'.base_url().'">RAOVATVNN.COM</a></div>
 ';
-$lang['post_2_info'] = 'Với tài khoản trên <a class="menu" href="'.base_url().'">RAOVAT365.INFO</a> bạn có thể đăng rao vặt, đăng tin tuyển dụng, tìm việc. Nếu tài khoản của bạn là tài khoản <font color="#FF0000"><b>VIP</b></font> hoặc <font color="#FF0000"><b>cửa hàng ảo</b></font> bạn còn có thể đăng sản phẩm.<br><br>
+$lang['post_2_info'] = 'Với tài khoản trên <a class="menu" href="'.base_url().'">RAOVATVNN.COM</a> bạn có thể đăng rao vặt, đăng tin tuyển dụng, tìm việc. Nếu tài khoản của bạn là tài khoản <font color="#FF0000"><b>VIP</b></font> hoặc <font color="#FF0000"><b>cửa hàng ảo</b></font> bạn còn có thể đăng sản phẩm.<br><br>
 						<b>Khi đăng sản phẩm, đăng rao vặt, tin tuyển dụng, tin tìm việc bạn cần chú ý những điểm sau:</b>
 						<br><br>
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Sản phẩm được đăng có kèm theo ảnh sản phẩm, có giá bán rõ ràng sẽ được ưu tiên đưa lên <a class="menu" href="'.base_url().'">trang chủ</a>. Sản phẩm không có ảnh hay có giá bán là <font color="#FF0000"><b>Call</b></font> sẽ không được xuất hiện ở trang chủ.<br>
@@ -137,8 +137,8 @@ $lang['post_2_info'] = 'Với tài khoản trên <a class="menu" href="'.base_ur
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Khi đăng sản phẩm, rao vặt, tin tuyển dụng, tin tìm việc, bạn nên nhập đầy đủ thông tin, có như vậy sản phẩm hay tin đăng của bạn mới dễ dàng tiếp cận với khách ghé thăm.<br>
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Khi đăng sản phẩm, rao vặt, tin tuyển dụng, tin tìm việc, bạn nên đọc trước những hướng dẫn <img src="'.base_url().'templates/home/images/help_post.gif" border="0"> kèm theo để việc đăng sản phẩm, rao vặt, tin tuyển dụng, tin tìm việc của bạn được nhanh chóng.<br>
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;Nếu bạn gặp khó khăn trong quá trình đăng sản phẩm, rao vặt, tin tuyển dụng, tin tìm việc, bạn vui lòng liên hệ với chúng tôi để được hỗ trợ.<br>';
-$lang['register_1_info'] = '<div class="info_1">Chào mừng bạn đến với <a class="menu" href="'.base_url().'">RAOVAT365.INFO</a></div>';
-$lang['register_2_info'] = '<div class="info_2">Nếu bạn chưa có một tài khoản trên <a class="menu" href="'.base_url().'">RAOVAT365.INFO</a>, bạn có thể <a class="menu" href="'.base_url().'register">đăng ký miễn phí</a> một tài khoản cho mình.<br>Đặc biệt, bạn còn có thể <a class="menu" href="'.base_url().'register">đăng ký</a> thành viên <font color="#FF0000"><b>VIP</b></font> hoặc <a class="menu" href="'.base_url().'register">đăng ký</a> một <font color="#FF0000"><b>cửa hàng ảo</b></font> trên <a class="menu" href="'.base_url().'">RAOVAT365.INFO</a> để tăng hiệu quả buôn bán, giao dịch. Với tài khoản <font color="#FF0000"><b>VIP</b></font> hoặc <font color="#FF0000"><b>cửa hàng ảo</b></font> bạn có thể đăng sản phẩm, đăng rao vặt, đăng tin tuyển dụng và tin tìm việc. Các sản phẩm, tin đăng của bạn sẽ luôn được đưa lên hàng đầu để khách hàng có thể tìm đến sản phẩm của bạn một cách nhanh nhất. Đặc biệt với tài khoản <font color="#FF0000"><b>cửa hàng ảo</b></font> bạn sẽ là chủ sở hữu của một cửa hàng trực tuyến với đầy đủ các chức năng quản lý.</div>';
+$lang['register_1_info'] = '<div class="info_1">Chào mừng bạn đến với <a class="menu" href="'.base_url().'">RAOVATVNN.COM</a></div>';
+$lang['register_2_info'] = '<div class="info_2">Nếu bạn chưa có một tài khoản trên <a class="menu" href="'.base_url().'">RAOVATVNN.COM</a>, bạn có thể <a class="menu" href="'.base_url().'register">đăng ký miễn phí</a> một tài khoản cho mình.<br>Đặc biệt, bạn còn có thể <a class="menu" href="'.base_url().'register">đăng ký</a> thành viên <font color="#FF0000"><b>VIP</b></font> hoặc <a class="menu" href="'.base_url().'register">đăng ký</a> một <font color="#FF0000"><b>cửa hàng ảo</b></font> trên <a class="menu" href="'.base_url().'">RAOVATVNN.COM</a> để tăng hiệu quả buôn bán, giao dịch. Với tài khoản <font color="#FF0000"><b>VIP</b></font> hoặc <font color="#FF0000"><b>cửa hàng ảo</b></font> bạn có thể đăng sản phẩm, đăng rao vặt, đăng tin tuyển dụng và tin tìm việc. Các sản phẩm, tin đăng của bạn sẽ luôn được đưa lên hàng đầu để khách hàng có thể tìm đến sản phẩm của bạn một cách nhanh nhất. Đặc biệt với tài khoản <font color="#FF0000"><b>cửa hàng ảo</b></font> bạn sẽ là chủ sở hữu của một cửa hàng trực tuyến với đầy đủ các chức năng quản lý.</div>';
 $lang['global_info'] = '<br><font color="#FF0000"><b>Mọi chi tiết bạn vui lòng <a class="menu" href="'.base_url().'contact">liên hệ</a> theo:</b></font><br>
 						<blockquote>
 						<img src="'.base_url().'templates/home/images/phone_1.gif" border="0">&nbsp;<font color="#004B7A"><b>Điện thoại:</b>&nbsp;&nbsp;'.Setting::settingPhone.'</font><br>

@@ -2,7 +2,7 @@
 #****************************************#
 # * @Author: chosoc                 #
 # * @Email: chosoc@gmail.com          #
-# * @Website: http://chosoc.com  #
+# * @Website: http://raovatvnn.com  #
 # * @Copyright: 2010 - 2012             #
 #****************************************#
 #BEGIN: Defaults
@@ -16,8 +16,8 @@ $lang['email_forgot_label_defaults'] = 'Email';
 $lang['captcha_forgot_label_defaults'] = 'Mã xác nhận';
 $lang['_valid_captcha_message_defaults'] = '%s không đúng';
 $lang['_valid_forgot_message_defaults'] = 'Thông tin bạn cung cấp không chính xác';
-$lang['useragen_defaults'] = 'CHOSOC.COM';
-$lang['title_mail_defaults'] = 'CHOSOC.COM - Mật Khẩu Mới';
+$lang['useragen_defaults'] = 'RAOVATVNN.COM';
+$lang['title_mail_defaults'] = 'RAOVATVNN.COM - Mật Khẩu Mới';
 $lang['new_password_mail_defaults'] = '<b>Mật khẩu mới:</b> ';
 $lang['content_mail_defaults'] = 'Để kích hoạt mật khẩu mới, bạn vui lòng copy hoặc nhấp vào đường link bên dưới để kích hoạt.<br><br><a href="';
 $lang['success_defaults'] = 'Mật khẩu mới đã được gởi thành công.<br>Bạn vui lòng kiểm tra Email để kích hoạt mật khẩu mới.';
