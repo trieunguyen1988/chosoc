@@ -2,7 +2,7 @@
 #****************************************#
 # * @Author: CHOSOC                  #
 # * @Email: DUYNHAN.07@GMAIL.COM         #
-# * @Website: http://RAOVAT365.INFO  #
+# * @Website: http://RAOVATVNN.COM  #
 # * @Copyright: 2011 - 2012             #
 #****************************************#
 #BEGIN: Defaults
@@ -40,8 +40,8 @@ $lang['phone_saleoff'] = 'Phone';
 $lang['none_shop_saleoff'] = 'Không có cửa hàng khuyến mãi';
 #END Saleoff
 #BEGIN: Detail - global (Shopping)
-$lang['title_detail_global'] = 'RAOVAT365.INFO | ';
-$lang['home_page_menu_detail_global'] = 'RAOVAT365.INFO';
+$lang['title_detail_global'] = 'RAOVATVNN.COM | ';
+$lang['home_page_menu_detail_global'] = 'RAOVATVNN.COM';
 $lang['index_page_menu_detail_global'] = 'Trang chủ';
 $lang['product_menu_detail_global'] = 'Sản phẩm';
 $lang['ads_menu_detail_global'] = 'Rao vặt';
@@ -69,7 +69,7 @@ $lang['year_search_detail_global'] = 'Năm';
 $lang['button_search_search_detail_global'] = 'Tìm kiếm';
 $lang['button_reset_search_detail_global'] = 'Làm lại';
 $lang['access_footer_detail_global'] = 'Lượt ghé thăm';
-$lang['copyright_footer_detail_global'] = 'Bản quyền © 2012 - '.date('Y').' <a class="menu" href="'.base_url().'" title="RAOVAT365.INFO">RAOVAT365.INFO</a>';
+$lang['copyright_footer_detail_global'] = 'Bản quyền © 2012 - '.date('Y').' <a class="menu" href="'.base_url().'" title="RAOVATVNN.COM">RAOVATVNN.COM</a>';
 $lang['address_footer_detail_global'] = 'Địa chỉ';
 $lang['phone_footer_detail_global'] = 'Điện thoại';
 $lang['email_footer_detail_global'] = 'Email';
@@ -145,13 +145,13 @@ $lang['title_contact_label_detail_contact'] = 'Tiêu đề';
 $lang['content_contact_label_detail_contact'] = 'Nội dung';
 $lang['captcha_contact_label_detail_contact'] = 'Mã xác nhận';
 $lang['_valid_captcha_contact_message_detail_contact'] = '%s không đúng';
-$lang['info_title_sender_detail_contact'] = '<font color="#004B7A"><b>Thư liên hệ của khách ghé thăm cửa hàng của bạn trên <a href="'.base_url().'" title="'.base_url().'">RAOVAT365.INFO</a></b></font><br><br>
+$lang['info_title_sender_detail_contact'] = '<font color="#004B7A"><b>Thư liên hệ của khách ghé thăm cửa hàng của bạn trên <a href="'.base_url().'" title="'.base_url().'">RAOVATVNN.COM</a></b></font><br><br>
 											 <b>Thông tin người liên hệ:</b><br>';
 $lang['fullname_sender_detail_contact'] = '<b>&bull; Họ tên:</b> ';
 $lang['address_sender_detail_contact'] = '<b>&bull; Địa chỉ:</b> ';
 $lang['phone_sender_detail_contact'] = '<b>&bull; Điện thoại:</b> ';
 $lang['content_sender_detail_contact'] = '<b>&bull; Nội dung thư liên hệ:</b> ';
-$lang['useragen_mail_detail_contact'] = 'RAOVAT365.INFO';
+$lang['useragen_mail_detail_contact'] = 'RAOVATVNN.COM';
 $lang['success_detail_contact'] = 'Cảm ơn bạn đã gởi liên hệ. Chúng tôi sẽ trả lời bạn trong thời gian nhanh nhất';
 #END Detail - Contact (Shopping)
 #BEGIN: Detail - Product detail (Shopping)

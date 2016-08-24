@@ -13,7 +13,7 @@ $lang['button_login_defaults'] = 'Đăng nhập';
 $lang['forgot_defaults'] = 'Quên mật khẩu?';
 $lang['error_message_defaults'] = 'Sai tài khoản hoặc mật khẩu';
 $lang['valid_login_defaults'] = '<font color="#FF0000">Bạn đã đăng nhập thất bại 5 lần.</font><br>Bạn vui lòng đăng nhập lại sau '.Setting::settingTimeSession.' phút hoặc liên hệ với chúng tôi để được hỗ trợ.';
-$lang['success_defaults'] = 'Chào mừng bạn đến với <a class="menu" href="'.base_url().'">CHOSOC.COM</a>.<br><a class="menu_1" href="'.base_url().'account" title="Quản lý tài khoản"><img src="'.base_url().'templates/home/images/icon_back_account.gif" border="0" />&nbsp;Quản lý tài khoản</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="menu_1" href="'.base_url().'" title="Trang chủ"><img src="'.base_url().'templates/home/images/icon_home_1.gif" border="0" />&nbsp;Quay về trang chủ</a>';
+$lang['success_defaults'] = 'Chào mừng bạn đến với <a class="menu" href="'.base_url().'">RAOVATVNN.COM</a>.<br><a class="menu_1" href="'.base_url().'account" title="Quản lý tài khoản"><img src="'.base_url().'templates/home/images/icon_back_account.gif" border="0" />&nbsp;Quản lý tài khoản</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="menu_1" href="'.base_url().'" title="Trang chủ"><img src="'.base_url().'templates/home/images/icon_home_1.gif" border="0" />&nbsp;Quay về trang chủ</a>';
 #END Defaults
 #BEGIN: Logout
 $lang['title_logout'] = 'ĐĂNG XUẤT';
